@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Midoc
 
-<!--
-**ahmadboudallaa-cloud/ahmadboudallaa-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant développeur Full Stack  
+💻 HTML | CSS | JavaScript | PHP | Laravel  
+📍 Maroc
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
+- Passionné par le développement web
+- En formation chez YouCode
+- Je cherche un stage en développement web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Frontend : HTML, CSS, Tailwind, Bootstrap
+- Backend : PHP, Laravel
+- Base de données : MySQL
+
+## 📫 Me contacter
+- Email : tonemail@gmail.com
+- LinkedIn : lien vers ton profil
